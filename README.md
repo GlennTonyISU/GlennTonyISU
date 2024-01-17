@@ -1,18 +1,32 @@
 <h1>Hi, I'm Glenn! </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
+- Configuring and updating Microsoft Firewall
+- Enabling and configuring Microsoft Firewall
+- Installed wireshard on Ubuntu
+- Utilized Wireshark to analyze HTTP/S and RDP traffic
+- Configured groups and performed basic administratrive 
+tasks with Microsoft Active Directory
+- Used Sysmon and Event Logs to detect and analyze malicious
+activities on Windows Server, including identifying DLL hijacking
+- Used Event Tracing for Windows (ETW) to identify unusual 
+parent-child relationships and malicious .NET assembly loading
+- Utilized Get-winEven cmdlet to analyze Windows Event Logs.
+
 
 - <b>Cybersecurity Skills</b>
-  - [Vulnerability Management Software](https://github.com/glenntonyisu/ADHome)
-  - [Encryption Tools](https://github.com/glenntonyisu/ADHome)
-  - [Password Managers](https://github.com/glenntonyisu/ADHome)
-  - [Antivirus Software](https://github.com/glenntonyisu/ADHome)
-  - [Penetration testing tools](https://github.com/glenntonyisu/ADHome)
-  - [Network Security Monitoring tools](https://github.com/glenntonyisu/ADHome)
-  - [Packet Catching tools](https://github.com/glenntonyisu/ADHome)
+  - [Microsoft Windows Defender](https://github.com/glenntonyisu/ADHome)
+  - [Windows Firewall](https://github.com/glenntonyisu/ADHome)
+  - [Network traffic analysis using tcpdump and Wireshark](https://github.com/glenntonyisu/ADHome)
+  - [Linux system administration](https://github.com/glenntonyisu/ADHome)
+  - [Microsoft Active Directory](https://github.com/glenntonyisu/ADHome)
+  - [Windows Event log analysis using Sysmon and Tracing for Windows (ETW)](https://github.com/glenntonyisu/ADHome)
+ 
   
   <h2> Certifications</h2>
-  [Google Cybersecurity](https://www.youtube.com)
+- Google cyber security certificate
+- CompTIA Security+
+  
   
 <h2>📺 Popular YouTube Videos</h2>
 
