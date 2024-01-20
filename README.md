@@ -23,7 +23,7 @@ parent-child relationships and malicious .NET assembly loading
   - [Windows Event log analysis using Sysmon and Tracing for Windows (ETW)](https://github.com/glenntonyisu/ADHome)
  
   
-  <h2>Certifications</h2>
+<h2>Certifications</h2>
 - Google Cybersecurity Certificate
 - CompTIA Security+
 - AZ-900: Microsoft Azure Fundamentals
