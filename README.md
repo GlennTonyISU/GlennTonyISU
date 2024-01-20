@@ -29,13 +29,14 @@ parent-child relationships and malicious .NET assembly loading
 - AZ-900: Microsoft Azure Fundamentals
 
  <h2>Education</h2>
- Education:
+Education:
+<br> </br> 
 M.S., Financial Planning
 Iowa State University, Ames, IA Fall 2014 – Spring 2019
-
+<br> </br> 
 B.S., Management Information Systems
 Iowa State University, Ames, IA Fall 2006 – Spring 2010
-
+<br> </br> 
 A.S., IT Network Administration
 DMACC, Ankeny, IA Fall 2000– Spring 2002
   
