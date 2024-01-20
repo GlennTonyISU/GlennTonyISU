@@ -23,9 +23,21 @@ parent-child relationships and malicious .NET assembly loading
   - [Windows Event log analysis using Sysmon and Tracing for Windows (ETW)](https://github.com/glenntonyisu/ADHome)
  
   
-  <h2> Certifications</h2>
-- Google cyber security certificate
+  <h2>Certifications</h2>
+- Google Cybersecurity Certificate
 - CompTIA Security+
+- AZ-900: Microsoft Azure Fundamentals
+
+ <h2>Education</h2>
+ Education:
+M.S., Financial Planning
+Iowa State University, Ames, IA Fall 2014 – Spring 2019
+
+B.S., Management Information Systems
+Iowa State University, Ames, IA Fall 2006 – Spring 2010
+
+A.S., IT Network Administration
+DMACC, Ankeny, IA Fall 2000– Spring 2002
   
   
 <h2>📺 Popular YouTube Videos</h2>
