@@ -15,12 +15,12 @@ parent-child relationships and malicious .NET assembly loading
 
 <br> </br> 
 <b>Cybersecurity Skills</b>
-  - [Microsoft Windows Defender](https://github.com/glenntonyisu/ADHome)
-  - [Windows Firewall](https://github.com/glenntonyisu/ADHome)
-  - [Network traffic analysis using tcpdump and Wireshark](https://github.com/glenntonyisu/ADHome)
-  - [Linux system administration](https://github.com/glenntonyisu/ADHome)
+  - [Microsoft Windows Defender & Firewall](https://www.coursera.org/projects/microsoft-windows-defender-and-firewall-for-beginners?)
+  - [Cybersecurity Risk Management Framework Specialization](https://github.com/glenntonyisu/ADHome](https://www.coursera.org/specializations/cybersecurity-risk-management-framework))
+  - [Wireshark: Capture Packets Project Certificate]([https://github.com/glenntonyisu/ADHome](https://www.coursera.org/projects/wireshark-for-beginners-capture-packets))
+  - [Tools of the Trade: Linux and SQL]([https://github.com/glenntonyisu/ADHome](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity))
   - [Microsoft Active Directory](https://github.com/glenntonyisu/ADHome)
-  - [Windows Event log analysis using Sysmon and Tracing for Windows (ETW)](https://github.com/glenntonyisu/ADHome)
+  - [Automate Cybersecurity tasks with Python]([https://github.com/glenntonyisu/ADHome](https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python?specialization=google-cybersecurity))
  
   
 <h2>Certifications</h2>
@@ -34,6 +34,8 @@ AZ-900: Microsoft Azure Fundamentals
 Microsoft Windows Defender and Firewall for Beginners Project Certificate
 <br> </br> 
 Wireshark for Beginners: Capture Packets Project Certificate
+<br> </br> 
+Cybersecurity Risk Management Framework Specialization
 <br> </br> 
  <h2>Education</h2>
 B.S., Management Information Systems: 
