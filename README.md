@@ -24,16 +24,13 @@ parent-child relationships and malicious .NET assembly loading
  
   
 <h2>Certifications</h2>
+Google Cybersecurity Certificate
 <br> </br> 
-- Google Cybersecurity Certificate
+CompTIA Security+
 <br> </br> 
-- CompTIA Security+
-<br> </br> 
-- AZ-900: Microsoft Azure Fundamentals
+AZ-900: Microsoft Azure Fundamentals
 
  <h2>Education</h2>
-Education:
-<br> </br> 
 M.S., Financial Planning
 Iowa State University, Ames, IA Fall 2014 – Spring 2019
 <br> </br> 
