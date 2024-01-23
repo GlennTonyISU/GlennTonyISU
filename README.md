@@ -16,9 +16,9 @@ parent-child relationships and malicious .NET assembly loading
 <br> </br> 
 <b>Cybersecurity Skills</b>
   - [Microsoft Windows Defender & Firewall](https://www.coursera.org/projects/microsoft-windows-defender-and-firewall-for-beginners?)
-  - [Cybersecurity Risk Management Framework Specialization](https://www.coursera.org/specializations/cybersecurity-risk-management-framework))
-  - [Wireshark: Capture Packets Project Certificate](https://www.coursera.org/projects/wireshark-for-beginners-capture-packets))
-  - [Tools of the Trade: Linux and SQL](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity))
+  - [Cybersecurity Risk Management Framework Specialization](https://www.coursera.org/specializations/cybersecurity-risk-management-framework)
+  - [Wireshark: Capture Packets Project Certificate](https://www.coursera.org/projects/wireshark-for-beginners-capture-packets)
+  - [Tools of the Trade: Linux and SQL](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity)
   - [Microsoft Active Directory](https://github.com/glenntonyisu/ADHome)
   - [Automate Cybersecurity tasks with Python](https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python?specialization=google-cybersecurity)
  
