@@ -24,8 +24,11 @@ parent-child relationships and malicious .NET assembly loading
  
   
 <h2>Certifications</h2>
+<br> </br> 
 - Google Cybersecurity Certificate
+<br> </br> 
 - CompTIA Security+
+<br> </br> 
 - AZ-900: Microsoft Azure Fundamentals
 
  <h2>Education</h2>
