@@ -32,14 +32,18 @@ AZ-900: Microsoft Azure Fundamentals
 
 <br> </br> 
  <h2>Education</h2>
-M.S., Financial Planning
-Iowa State University, Ames, IA Fall 2014 – Spring 2019
+
 <br> </br> 
 B.S., Management Information Systems
+<br> </br> 
 Iowa State University, Ames, IA Fall 2006 – Spring 2010
 <br> </br> 
 A.S., IT Network Administration
+<br> </br> 
 DMACC, Ankeny, IA Fall 2000– Spring 2002
+M.S., Financial Planning
+<br> </br> 
+Iowa State University, Ames, IA Fall 2014 – Spring 2019
   
   
 <h2>📺 Popular YouTube Videos</h2>
