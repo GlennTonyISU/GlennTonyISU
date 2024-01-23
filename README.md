@@ -30,6 +30,7 @@ CompTIA Security+
 <br> </br> 
 AZ-900: Microsoft Azure Fundamentals
 
+<br> </br> 
  <h2>Education</h2>
 M.S., Financial Planning
 Iowa State University, Ames, IA Fall 2014 – Spring 2019
