@@ -14,7 +14,7 @@ parent-child relationships and malicious .NET assembly loading
 - Utilized Get-winEven cmdlet to analyze Windows Event Logs.
 
 <br> </br> 
-- <b>Cybersecurity Skills</b>
+<b>Cybersecurity Skills</b>
   - [Microsoft Windows Defender](https://github.com/glenntonyisu/ADHome)
   - [Windows Firewall](https://github.com/glenntonyisu/ADHome)
   - [Network traffic analysis using tcpdump and Wireshark](https://github.com/glenntonyisu/ADHome)
@@ -30,6 +30,10 @@ CompTIA Security+
 <br> </br> 
 AZ-900: Microsoft Azure Fundamentals
 <br> </br> 
+<h2>Guided Project Certificates</h2>
+Microsoft Windows Defender and Firewall for Beginners Project Certificate
+<br> </br> 
+Wireshark for Beginners: Capture Packets Project Certificate
 <br> </br> 
  <h2>Education</h2>
 B.S., Management Information Systems: 
