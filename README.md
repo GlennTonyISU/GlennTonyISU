@@ -33,7 +33,7 @@ AZ-900: Microsoft Azure Fundamentals
 <br> </br> 
  <h2>Education</h2>
 
-<br> </br> 
+<pre> </pre> 
 B.S., Management Information Systems
 <br> </br> 
 Iowa State University, Ames, IA Fall 2006 – Spring 2010
