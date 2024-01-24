@@ -49,24 +49,9 @@ Iowa State University, Ames, IA Fall 2014 – Spring 2019
   
   <br> </br> 
   <br> </br> 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [Tutorial Active Directory Home Lab](https://www.youtube.com/)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/)
-- [Is WGU Legit?](https://www.youtube.com/)
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
-[youtube]: https://www.youtube.com/GlennTonyISU
-[linkedin]: https://linkedin.com/in/GlennTonyISU
+<h2>Social Media</h2>
+<br> </br> 
+[Linkedin]: www.linkedin.com/in/glenntonyisu
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
