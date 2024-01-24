@@ -50,7 +50,6 @@ Iowa State University, Ames, IA Fall 2014 – Spring 2019
   <br> </br> 
   <br> </br> 
 <h2>Social Media</h2>
-<br> </br> 
 [Linkedin]: www.linkedin.com/in/glenntonyisu
 
 <!--
