@@ -13,11 +13,7 @@
 <br> </br> 
 - Used Sysmon and Event Logs to detect and analyze malicious
 activities on Windows Server, including identifying DLL hijacking
-<br> </br> 
-- Used Event Tracing for Windows (ETW) to identify unusual 
-parent-child relationships and malicious .NET assembly loading
-<br> </br> 
-- Utilized Get-winEven cmdlet to analyze Windows Event Logs.
+
 
 <br> </br> 
 <b>Cybersecurity Skills</b>
