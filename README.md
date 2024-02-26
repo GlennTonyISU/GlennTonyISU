@@ -1,7 +1,7 @@
 <h1>Hi, I'm Glenn! </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
--Configuring and updating Microsoft Firewall
+- Configuring and updating Microsoft Firewall
 <br> </br> 
 - Enabling and configuring Microsoft Firewall
 <br> </br> 
