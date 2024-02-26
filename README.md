@@ -1,7 +1,7 @@
 <h1>Hi, I'm Glenn! </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-- Configuring and updating Microsoft Firewall
+Configuring and updating Microsoft Firewall
 - Enabling and configuring Microsoft Firewall
 - Installed wireshard on Ubuntu
 - Utilized Wireshark to analyze HTTP/S and RDP traffic
