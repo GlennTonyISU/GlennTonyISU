@@ -9,9 +9,7 @@
 <br> </br> 
 - Utilized Wireshark to analyze HTTP/S and RDP traffic
 <br> </br> 
-- Configured groups and performed basic administratrive 
-<br> </br> 
-tasks with Microsoft Active Directory
+- Configured groups and performed basic administratrive tasks with Microsoft Active Directory
 <br> </br> 
 - Used Sysmon and Event Logs to detect and analyze malicious
 activities on Windows Server, including identifying DLL hijacking
