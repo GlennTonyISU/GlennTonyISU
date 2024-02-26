@@ -1,16 +1,24 @@
 <h1>Hi, I'm Glenn! </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-Configuring and updating Microsoft Firewall
+-Configuring and updating Microsoft Firewall
+<br> </br> 
 - Enabling and configuring Microsoft Firewall
-- Installed wireshard on Ubuntu
+<br> </br> 
+- Installed wireshark on Ubuntu
+<br> </br> 
 - Utilized Wireshark to analyze HTTP/S and RDP traffic
+<br> </br> 
 - Configured groups and performed basic administratrive 
+<br> </br> 
 tasks with Microsoft Active Directory
+<br> </br> 
 - Used Sysmon and Event Logs to detect and analyze malicious
 activities on Windows Server, including identifying DLL hijacking
+<br> </br> 
 - Used Event Tracing for Windows (ETW) to identify unusual 
 parent-child relationships and malicious .NET assembly loading
+<br> </br> 
 - Utilized Get-winEven cmdlet to analyze Windows Event Logs.
 
 <br> </br> 
