@@ -26,7 +26,7 @@ activities on Windows Server, including identifying DLL hijacking
  
   
 <h2>Certifications</h2>
-CompTIA Security+
+CompTIA Security+ (Verification Code - 5XE7KPTZDEQ4QXSY)
 <br> </br> 
 Google Cybersecurity Certificate
 <br> </br> 
