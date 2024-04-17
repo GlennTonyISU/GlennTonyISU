@@ -3,8 +3,6 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 - Configuring and updating Microsoft Firewall
 <br> </br> 
-- Enabling and configuring Microsoft Firewall
-<br> </br> 
 - Installed wireshark on Ubuntu
 <br> </br> 
 - Utilized Wireshark to analyze HTTP/S and RDP traffic
