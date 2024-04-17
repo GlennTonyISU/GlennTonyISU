@@ -52,7 +52,7 @@ Iowa State University, Ames, IA Fall 2014 – Spring 2019
   <br> </br> 
   <br> </br> 
 <h2>Social Media</h2>
-[Linkedin]: www.linkedin.com/in/glenntonyisu
+[Linkedin]: [www.linkedin.com/in/glenntonyisu](https://www.linkedin.com/in/mrglennharris/)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
