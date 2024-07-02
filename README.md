@@ -30,6 +30,8 @@ Google Cybersecurity Certificate
 <br> </br> 
 InfoSec Cybersecurity Risk Framework Certification 
 <br> </br> 
+IBM Generative AI for Cybersecurity Professionals Specialization Certificate 
+<br> </br> 
 AZ-900: Microsoft Azure Fundamentals
 <br> </br> 
 <h2>Guided Project Certificates</h2>
